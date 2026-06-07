@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sufiyan Ali</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate junior software developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **A console based Hospital Management System using C++**
 
-- 🌱 I’m currently learning **C++ and JAVA**
+- 🌱 I’m currently learning **C++ , JAVA and python**
 
 - 👯 I’m looking forward for **Internships**
 
-- 📝 I update my repos weekly on [https://github.com/Syed-Sufiyan-Ali/ATM-using-CPP](https://github.com/Syed-Sufiyan-Ali/ATM-using-CPP)
+- 📝 I update my repos weekly on [https://github.com/Syed-Sufiyan-Ali/ATM-using-CPP](https://github.com/Syed-Sufiyan-Ali/ATM-using-CPP) and <br> https://github.com/Syed-Sufiyan-Ali/Hospital-Management-System.
 
-- 💬 Ask me about **C++ and how it reacts with the Hardware**
+- 💬 Ask me about **Management System Development**
 
 - 📫 How to reach me **syedsufiyanali2007890@gmail.com**
 
