@@ -25,7 +25,7 @@
   - ⚡ Advanced C++
 
 - 👯 Looking for:
-  - 💼 Internships
+  - 💼 Paid Internships
   - 🤝 Developer collaborations
 
 - 💬 Ask me about:
