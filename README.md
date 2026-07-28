@@ -1,12 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Sufiyan Ali</h1>
 
 <h3 align="center">
-💻 Junior Software Developer | 🚀 C++ and JAVA Enthusiast 
+💻 Junior Software Developer | 🚀 Java • C++ • Web Development
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Junior+Software+Developer;C%2B%2B+%7C+Java+%7C+Python;Building+Console+Applications;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Junior+Software+Developer;Java+%7C+C%2B%2B+%7C+Python;Building+Desktop+Applications;Creating+Modern+Responsive+Websites;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -16,39 +15,44 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on:
-  - 🏥 **Hospital Management System**
-  - 🏧 **ATM Machine System**
+  - 🏥 Hospital Management System
+  - 🌐 Ready-to-Use Restaurant Website
 
 - 🌱 Currently learning:
   - ☕ Java
   - 🐍 Python
   - ⚡ Advanced C++
+  - 🌍 Full Stack Development
 
 - 👯 Looking for:
   - 💼 Paid Internships
-  - 🤝 Developer collaborations
+  - 🤝 Developer Collaborations
 
 - 💬 Ask me about:
-  - 🖥️ Console Based Applications
-  - 📂 File Handling in C++
-  - 🧠 Logic Building
+  - ☕ Java
+  - 💻 C++
+  - 🌐 HTML & CSS
+  - 📂 File Handling
+  - 🧠 Problem Solving
 
 - 📫 Reach me at:
   - **syedsufiyanali2007890@gmail.com**
 
 - ⚡ Fun Fact:
-  - **I get obsessed with improving my projects 😅**
+  - **I enjoy turning ideas into real software. 🚀**
 
 ---
 
-## 🚀 My Projects
+# 🚀 My Projects
 
 ### 🏥 Hospital Management System
-📌 Console based management software with:
+📌 Console-based hospital management software featuring:
 - Patient Records
 - Doctor Management
-- Billing Features
+- Billing System
 - File Handling
+
+---
 
 ### 🏧 ATM Machine System
 📌 Banking simulation project featuring:
@@ -58,6 +62,35 @@
 
 ---
 
+### 🍽️ Ready-to-Use Restaurant Website
+📌 A modern, fully responsive restaurant website suitable for restaurants, cafés, and food businesses.
+
+**Features**
+- 🍕 Modern & Attractive UI
+- 📱 Fully Responsive Design
+- 🍔 Menu Showcase
+- 🖼️ Food Gallery
+- 📞 Contact Section
+- ⚡ Fast Loading
+- 🎨 Clean & Professional Layout
+
+---
+
+### 🏋️ Full Stack Gym Membership Website
+📌 A complete gym management platform built for gym owners and members, featuring membership management, online registration, and an admin dashboard.
+
+**Features**
+- 👤 Member Registration & Login
+- 🛠️ Admin Dashboard
+- 💳 Membership Management
+- 📅 Membership Status & Expiry Tracking
+- 🔔 Payment & Renewal Notifications
+- 📊 Member Management System
+- 📱 Fully Responsive Design
+- 🔒 Secure Authentication
+- ⚡ Modern Full Stack Architecture
+
+---
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -78,7 +111,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,javascript,git,github,vscode" />
 
 </p>
 
@@ -109,7 +142,7 @@
 ## 👀 Profile Views
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=Syed-Sufiyan-Ali&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Syed-Sufiyan-Ali&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -117,4 +150,3 @@
 <h3 align="center">
 ⭐ Code • Learn • Build • Repeat ⭐
 </h3>
-```
