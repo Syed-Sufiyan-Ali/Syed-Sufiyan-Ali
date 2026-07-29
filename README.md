@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on:
-  - 🏥 Hospital Management System
+  - 🏥 Clinic Management System
   - 🌐 Ready-to-Use Restaurant Website
 
 - 🌱 Currently learning:
