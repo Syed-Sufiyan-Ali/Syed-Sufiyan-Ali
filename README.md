@@ -17,6 +17,7 @@
 - 🔭 Currently working on:
   - 🏥 Clinic Management System
   - 🌐 Ready-to-Use Restaurant Website
+  -  🏢 Mattress Showroom POS & Inventory Management System
 
 - 🌱 Currently learning:
   - ☕ Java
@@ -59,6 +60,21 @@
 - Deposit & Withdraw
 - Balance Inquiry
 - PIN Authentication
+### Mattress Showroom 
+
+**⚙️ Core Modules & Features**
+- 🛒 Point of Sale (POS) & Billing System
+- 📦 Inventory & Stock Management
+- 📥 Purchase & Supplier Management
+- 👥 Customer Khata & Credit Management
+- 🏭 Supplier Khata & Payables Management
+- 💰 Payments & Expense Tracking
+- 🔄 Customer Returns & Refund Management
+- 📊 Financial Dashboard & Business Reports
+- 💳 Treasury & Transaction Ledger
+- 🔐 Firebase Authentication & Role-Based Access
+- ☁️ Cloud Database & Real-Time Synchronization
+- 📱 Responsive Desktop & Mobile Interface
 
 ---
 
